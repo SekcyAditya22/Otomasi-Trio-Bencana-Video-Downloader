@@ -10,7 +10,7 @@ Dibuat oleh:
 
 Deskripsi:
 Program ini mengotomatisasi proses download video dari berbagai platform social media
-menggunakan konsep OOP inheritance.
+menggunakan konsep OOP inheritance. Dilakukan dengan API yang tersedia pada RapidAPI dan melakukan penyesuain Scrapping untuk mengambil .mp4 dan Image
 
 Fitur:
 - Download video TikTok tanpa watermark
