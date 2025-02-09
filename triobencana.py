@@ -26,7 +26,7 @@ from typing import Optional
 class BaseDownloader:
     def __init__(self):
         self.download_path = "downloads"  # Path untuk menyimpan video yang diunduh
-        self.api_key = "e2b637ab25msh618e9bb20ad3300p1d90aejsn35940e09de89"  # Kunci API untuk akses layanan
+        self.api_key = "9cd73cdd6fmshc01a47ec286cf4ep1cbe5ejsnd864430e9780"  # Kunci API untuk akses layanan
 
     def create_download_folder(self) -> None:
         # Membuat folder untuk menyimpan video jika belum ada
